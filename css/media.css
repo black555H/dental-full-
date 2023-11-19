@@ -1,0 +1,409 @@
+@media(max-width:991px){
+    .navbar-brand{
+        display: contents;
+    }
+    .desktop_header{
+        display: none;
+    }
+    .header_appointment{
+        display: none;
+    }
+    .main_header {
+        padding: 13px 0;
+    }
+    .navbar-nav{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    .nav-link{
+
+    }
+    .nav-item{
+        width: 50%;
+        margin-right: 0;
+        padding: 10px 0;
+        text-align: center;
+    }
+    .mobile_topber{
+        display: contents;
+    }
+    .top_header{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+    .top_contant{
+    margin-left: 0;
+    margin: 10px 50px 10px 0;
+    }
+    .Appo_mobile{
+     display: contents;
+    }
+    .Appo_mobile a{
+    color: #fff;
+    }
+    .banner_contant h2 {
+        font-size: 22px;
+        padding: 3px 13px;
+    }
+    .banner_contant h1 {
+        font-size: 24px;
+        padding-left: 13px;
+    }
+    .banner_contant p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .smile {
+        right: 0px;
+        width: 55%;
+    }
+    .btn_learn {
+        padding: 3px 12px;
+        font-size: 14px;
+    }
+    .btn_book {
+        padding: 5px 15px;
+        font-size: 14px;
+    }
+    .agency {
+        display: none;
+    }
+    .wellcome_dextop{
+        display: none;
+    }
+    .wellcome_mobile{
+        width: 100%;
+    }
+    .extraction {
+        text-align: center;
+        padding: 0;
+    }
+    .extraction h3 {
+        font-size: 24px;
+    }
+    .extraction p {
+        font-size: 14px;
+    }
+    .agency_contant {
+       text-align: center;
+       margin: 0;
+       margin-bottom: 30px;
+       padding: 0 20px;
+    }
+    .wellcome {
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+    .agency_contant h3{
+        font-size: 20px;
+    }
+    .agency_contant p{
+        
+        font-size: 14px;
+    }
+    .doctors {
+        padding: 20px 0;
+    }
+    .doc_heading h1{
+        font-size: 24px;
+    }
+    .doc_heading p{
+        font-size: 14px;
+    }
+    .doc_heading img{
+        margin: 0;
+        margin: 10px 0;
+    }
+    .doc_heading {
+        margin: 20px 0 20px;
+    }
+    .doctor_deatails h2 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+    .doctor_deatails h5 {
+        font-size: 14px;
+        padding: 5px 0 10px;
+    }
+    .services {
+        padding: 20px 0;
+    }
+    .service_heading h1{
+        font-size: 24px;
+    }
+    .service_heading p{
+        font-size: 14px;
+    }
+    .service_heading img{
+        margin: 0;
+        margin: 10px 0;
+    }
+    .service_heading {
+        margin: 20px 0 20px;
+    }
+    .tooth h3 {
+        font-size: 16px;
+    }
+    .tooth_contant p {
+        font-size: 14px;
+    }
+    .tooth_contant {
+        padding: 7px;
+    }
+    .tooth i {
+        font-size: 18px;
+        margin-right: 5px;
+    }
+    .btn_read {
+        font-size: 14px;
+    }
+    .pricing {
+        padding: 20px 0;
+    }
+    .pricing_heading h1{
+        font-size: 24px;
+    }
+    .pricing_heading p{
+        font-size: 14px;
+    }
+    .pricing_heading img{
+        margin: 0;
+        margin: 10px 0;
+    }
+    .pricing_heading {
+        margin: 20px 0 20px;
+    }
+    .top h3 {
+        font-size: 20px;
+        padding: 11px 0;
+    }
+    .top p {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .middle h1 {
+        font-size: 40px;
+    }
+    .middle p {
+        font-size: 14px;
+        padding: 5px 0 10px;
+    }
+    .botom p {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    .botom {
+        padding: 10px 9px;
+    }
+    .btn_sign {
+        padding: 5px 15px;
+        margin: 15px;
+        font-size: 14px;
+    }
+    .card {
+        margin: 1px;
+    }
+    .clients {
+        padding: 20px 0;
+    }
+    .clients_heading h1{
+        font-size: 24px;
+    }
+    .clients_heading p{
+        font-size: 14px;
+    }
+    .clients_heading img{
+        margin: 0;
+        margin: 10px 0;
+    }
+    .clients_heading {
+        margin: 20px 0 20px;
+    }
+    .left_top img {
+        width: 70%;
+        padding-top: 5px;
+    }
+    footer {
+        padding: 20px 0;
+    }
+    .footer_heading h2 {
+        font-size: 30px;
+        padding: 16px 0;
+    }
+    .footer_mobile{
+        width: 50%;
+    }
+    .foomail{
+        width: 100%;
+        text-align: center;
+    }
+    .person_pic img {
+        width: 100%;
+    }
+    .person_deatails h5 {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    .person_deatails p {
+        font-size: 13px;
+    }
+    .post_deatails {
+        margin-bottom: 25px;
+    }
+    .left_top p {
+        padding: 15px 0 10px;
+        font-size: 14px;
+    }
+    .left_botom {
+        margin: 6px 0;
+    }
+    .left_botom p a {
+        font-size: 13px;
+    }
+    .botom_icon i {
+        font-size: 33px;
+    }
+    .footer_heading p {
+        font-size: 14px;
+    }
+    .form form input[type=submit]{
+        font-size: 14px;
+    }
+    .form form input {
+        padding: 10px 12px;
+    }
+    .bottom_contant h4 {
+        font-size: 14px;
+    }
+    .follow_icon ul li a i {
+        font-size: 20px;
+        height: 35px;
+        width: 35px;
+    }
+}
+
+@media(max-width:768px){
+    .banner_carousel .owl-nav .owl-prev i{
+        display: none;
+    }
+    .banner_carousel .owl-nav .owl-next i{
+        display: none;
+    }
+}
+
+@media(max-width:575px){
+    .doctor {
+        width: 80%;
+        margin: auto;
+    }
+    .doctor_deatails span {
+        margin-bottom: 10px;
+    }
+    .extraction p {
+        margin: 15px 15px;
+    }
+    .height {
+        flex-direction: column-reverse;
+    }
+    .smile {
+        position: static;
+        margin: auto;
+        width: 44%;
+    }
+    .banner_contant {
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .banner_carousel .owl-dots .owl-dot span {
+        margin: 6px 4px;
+    }
+    .banner_contant p {
+        padding: 0 30px;
+    }
+    .agency_contant p {
+       padding: 0 50px;
+    }
+    .doc_heading p {
+        padding: 0 30px;
+    }
+    .tooth_contant {
+        width: 55%;
+        margin: auto;
+        margin-bottom: 10px;
+    }
+    .card {
+        width: 60%;
+        margin: auto !important;
+        text-align: center;
+        margin-bottom: 10px !important;
+    }
+    .brand_carousel .owl-nav .owl-prev{
+        display: none;
+    }
+    .brand_carousel .owl-nav .owl-next{
+        display: none;
+    }
+    .person_pic img {
+        width: 110%;
+    }
+    .person_deatails h5 {
+        font-size: 12px;
+    }
+    .person_deatails p {
+        font-size: 11px;
+    }
+    .left_top p {
+        font-size: 12px;
+    }
+    .left_top img {
+        padding-top: 12px;
+    }
+    .left_botom p a {
+        font-size: 11px;
+    }
+    .botom_icon i {
+        font-size: 28px;
+    }
+    .footer_heading p {
+        font-size: 12px;
+    }
+    .follow_icon ul {
+        justify-content: space-evenly;
+        margin-top: 10px;
+    }
+    .bottom_contant h4 {
+        font-size: 12px;
+    }
+    .client_mobile{
+        margin: auto;
+    }
+    .brand_mobile{
+        margin: auto;
+    }
+}
+@media(max-width:425px){
+    .tooth_contant {
+        width: 80%;
+    }
+    .card {
+        width: 80%;
+    }
+    .footer_mobile {
+        width: 100%;
+    }
+    .person_pic img {
+        width: 90%;
+    }
+    .left_top img {
+        width: 55%;
+    }
+    .footer_heading h2 {
+        text-align: center;
+    }
+    .bottom_contant h4 {
+        font-size: 11px;
+    }
+
+}
+
